@@ -1,0 +1,87 @@
+1º	-	Caio Rondelli	157,00	0	157	Q3	35	F	1°	2		67	F	6°	1		55
+2º	4	André Bonilha	144,00	0	144	Q3	35	F	9°			51	F	4°	2		58
+3º	-	Alex Oliveira	141,00	0	141	Q3	35	F	4°			56	F	5°		-5	50
+4º	1	Anderson Valter	135,00	0	135	Q2	25	F	2°			61	F	11°			49
+5º	7	Rogerio Lorente	133,00	0	133	Q2	25	L	2°	1		47	F	2°			61
+6º	2	Thomas Bierhals	129,00	0	129	Q2	25	F	5°	1		56	F	12°			48
+7º	-3	Fabio Pavão	127,00	0	127	Q3	35	F	8°			52	F	20°			40
+8º	-1	Diego Oliveira	126,00	0	126	Q3	35	F	10°			50	F	19°			41
+9º	-	Daniel Veiga	124,00	0	124	Q2	25	F	7°			53	F	14°			46
+10º	4	Nuno Osório	114,00	0	114	Q2	25	F	14°			46	F	17°			43
+11º	-1	Anderson Valter	112,00	0	112	Q2	25	L	1°			50	L	8°			37
+12º	3	Leonardo Hellmeister	111,00	0	111	Q1	15	F	11°			49	F	13°			47
+13º	3	Cesar Hellmeister	108,00	0	108	Q1	15	F	12°			48	F	15°			45
+14º	4	Nuno Osório	100,00	0	100	Q2	25	L	9°			36	L	6°			39
+15º	2	Thiago Cestarioli	100,00	0	100	Q2	25	L	7°			38	F	23°			37
+16º	-3	João Vitor Stuchi	97,00	0	97	Q3	35	F	19°		-5	36	L	19°			26
+17º	16	Denis Marques	93,00	0	93	NP	-	L	3°			43	F	10°			50
+18º	-16	Ricardo Tostes	93,00	0	93	Q3	35	F	3°			58	-	NP			-
+19º	-	Pedro Veiga	92,00	0	92	Q2	25	L	11°			34	L	12°			33
+20º	9	P. Ceschi	91,00	0	91	NP	-	F	15°			45	F	9°		-5	46
+21º	-1	William Sant'Anna	90,00	0	90	NP	-	F	6°			54	F	24°			36
+22º	10	Alexandre Xavier	85,00	0	85	NP	-	F	17°			43	L	5°	2		42
+23º	8	Carlos Garrote	83,00	0	83	NP	-	F	16°			44	F	21°			39
+24º	6	Bruno Nunes	82,00	0	82	Q1	15	B	3°	1		29	B	1°	3		38
+25º	14	Vinicius Sabino	78,00	0	78	NP	-	L	5°			40	F	22°			38
+26º	2	Anderson Beneduzzi	75,00	0	75	Q1	15	L	14°			31	L	16°			29
+27º	9	Carlos Garrote	75,00	0	75	NP	-	L	4°			41	L	11°			34
+28º	-4	Gabriel Xavier	73,00	0	73	Q1	15	B	8°			22	B	1°	1		36
+29º	24	Ghehard Hanser 	73,00	0	73	NP	-	L	15°			30	L	3°			43
+30º	-5	Amilcar Cazoto	72,00	0	72	Q1	15	L	12°			33	L	21°			24
+31º	10	Diego Oliveira	72,00	0	72	Q3	35	L	NC	2		2	L	10°			35
+32º	5	João Ryu	72,00	0	72	Q1	15	B	4°			26	L	14°			31
+33º	-22	Rodrigo Almeida	72,00	0	72	Q2	25	F	13°			47	F	NC			-
+34º	11	Bilu	71,00	0	71	Q3	35	F	NC			-	L	9°			36
+35º	-	Marcos Roberto	70,00	0	70	NP	-	F	18°			42	L	17°			28
+36º	-	Gustavo Conrado	69,00	0	69	Q2	25	-	NP			-	F	16°			44
+37º	20	Ze Carlos	69,00	0	69	NP	-	L	6°		-12	27	F	18°			42
+38º	21	Arthur Calore	67,00	0	67	Q2	25	F	NC			-	L	4°	1		42
+39º	5	Christian Gomes	67,00	0	67	Q1	15	B	9°			21	B	2°			31
+40º	-4	Gabriel Xavier	67,00	0	67	Q1	15	B	1°			35	B	8°		-5	17
+41º	5	Ricardo Salvato	67,00	0	67	NP	-	L	10°			35	L	13°			32
+42º	-15	Alex Marcelino	66,00	0	66	Q1	15	B	2°			31	B	10°			20
+43º	4	Wagner Figueiredo	66,00	0	66	Q3	35	L	NC			-	B	2°			31
+44º	-4	Fabiano Amaro	63,00	0	63	Q1	15	B	7°			23	L	20°			25
+45º	-7	Vitor Machado Bonafé	63,00	0	63	Q1	15	L	19°			26	B	8°			22
+46º	2	Wagner Figueiredo	62,00	0	62	Q3	35	F	NC			-	L	18°			27
+47º	-	Gustavo Maciel	61,00	0	61	Q1	15	-	NP			-	L	2°			46
+48º	-	Peru	60,00	0	60	NP	-	-	NP			-	F	1°		-5	60
+49º	5	William Sant'Anna	59,00	0	59	NP	-	L	16°			29	L	15°			30
+50º	-	Hudson Camargo	58,00	0	58	NP	-	-	NP			-	F	3°			58
+51º	6	Bruno Nunes	55,00	0	55	Q1	15	B	13°			17	B	7°			23
+52º	4	Luis Maurício	55,00	0	55	NP	-	L	17°			28	B	5°	2		27
+53º	-	Marcel Conti	53,00	0	53	NP	-	-	NP			-	F	7°			53
+54º	-	Matheus Pacanari	53,00	0	53	Q1	15	-	NP			-	L	7°			38
+55º	-34	Du Siqueira 	52,00	0	52	Q2	25	B	5°	2		27	-	NP			-
+56º	-4	Pedro Ferraro	52,00	0	52	NP	-	B	2°			31	B	9°			21
+57º	-35	Pedro Veiga	52,00	0	52	Q2	25	B	5°	2		27	-	NP			-
+58º	-	Raphael Kikuchi	52,00	0	52	NP	-	-	NP			-	F	8°			52
+59º	-36	José Carlos Garcia	51,00	0	51	Q1	15	B	1°	1		36	-	NP			-
+60º	-	Marcel Conti	50,00	0	50	NP	-	-	NP			-	L	1°			50
+61º	-10	Carlos Eduardo Ferrari	49,00	0	49	Q1	15	B	14°			16	B	12°			18
+62º	-13	Gustavo Fagundes	49,00	0	49	Q1	15	B	12°			18	B	14°			16
+63º	-3	Jacklyn Reis	49,00	0	49	Q2	25	L	DC			-	B	6°			24
+64º	-38	Alex Marcelino	47,00	0	47	Q1	15	L	13°			32	-	NP			-
+65º	-	Pedro Veiga	45,00	0	45	Q2	25	-	NP			-	B	10°			20
+66º	-	Vitor Marinho	43,00	0	43	NP	-	B	11°			19	B	6°			24
+67º	-33	Cesar Hellmeister	42,00	0	42	Q1	15	L	18°			27	-	NP			-
+68º	-5	Pedro Caldeira	42,00	0	42	NP	-	B	7°			23	B	11°			19
+69º	-4	Diogenes Alexandre	38,00	0	38	NP	-	B	10°			20	B	7°		-5	18
+70º	-27	Luiz Dias	37,00	0	37	NP	-	L	8°			37	-	NP			-
+71º	-16	Alexander Muñoz	28,00	0	28	NP	-	B	3°			28	-	NP			-
+72º	-	Enzo Fraga	28,00	0	28	NP	-	-	NP			-	B	3°			28
+73º	-	João Sousa	28,00	0	28	NP	-	-	NP			-	B	3°			28
+74º	-6	Alexandre Xavier	26,00	0	26	NP	-	L	NC			-	B	4°			26
+75º	-17	Claudio Cesar Pessotto	26,00	0	26	NP	-	B	4°			26	-	NP			-
+76º	-	Pedro Ferraro	26,00	0	26	NP	-	-	NP			-	B	4°			26
+77º	-	João Bertotti	25,00	0	25	NP	-	-	NP			-	B	5°			25
+78º	-17	Claudio Cesar Pessotto	24,00	0	24	NP	-	B	6°			24	-	NP			-
+79º	-17	Gabriel Wu Paes	24,00	0	24	NP	-	B	6°			24	-	NP			-
+80º	-16	Tognelli	22,00	0	22	NP	-	B	8°			22	-	NP			-
+81º	-	Pedro Nogueira	21,00	0	21	NP	-	-	NP			-	B	9°			21
+82º	-	A. Suzigan	17,00	0	17	NP	-	-	NP			-	B	13°			17
+83º	-16	Rogério Perina	15,00	0	15	Q1	15	L	NC			-	-	NP			-
+84º	-	André Bellin	10,00	0	10	NP	-	-	NP			-	B	15°		-5	10
+85º	-	João Victor Garcia	0,00	0	0	NP	-	-	NP			-	B	NC			-
+86º	-	Ale Silva	-5	0	-5	NP	-	-	NP			-	F	NC		-5	-5
+87º	-	Helio Pardini	-5	0	-5	NP	-	-	NP			-	F	NC		-5	-5
